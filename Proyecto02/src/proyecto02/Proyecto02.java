@@ -17,7 +17,7 @@ public class Proyecto02 {
         System.out.println("Ejemplo dos básico de Java\n" +
 "Versionado a través de Git\n" +
 "Manejado desde GitHub\n" +
-"Además de usar GitHubClassroom");
+"Además de usar GitHubClassroom.");
         // TODO code application logic here
     }
     
